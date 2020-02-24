@@ -45,7 +45,7 @@ function validateTheForm() {
       $("#prdct").hide("slow")
     });
 //    function for portfolio-responsivesness  
-    $("#work1").hover(
+    $("").hover(
       function() {
         $("#txt1").show("2000");
       },
@@ -53,7 +53,7 @@ function validateTheForm() {
         $("#txt1").hide("2000");
       }
     );
-    $("#work2").hover(
+    $("").hover(
       function() {
         $("#txt2").show("2000");
       },
@@ -61,7 +61,7 @@ function validateTheForm() {
         $("#txt2").hide("2000");
       }
     );
-    $("#work3").hover(
+    $("").hover(
       function() {
         $("#txt3").show("2000");
       },
@@ -69,7 +69,7 @@ function validateTheForm() {
         $("#txt3").hide("2000");
       }
     );
-    $("#work4").hover(
+    $("").hover(
       function() {
         $("#txt4").show("2000");
       },
@@ -77,7 +77,7 @@ function validateTheForm() {
         $("#txt4").hide("2000");
       }
     );
-    $("#work5").hover(
+    $("").hover(
       function() {
         $("#txt5").show("2000");
       },
@@ -85,7 +85,7 @@ function validateTheForm() {
         $("#txt5").hide("2000");
       }
     );
-    $("#work6").hover(
+    $("").hover(
       function() {
         $("#txt6").show("2000");
       },
